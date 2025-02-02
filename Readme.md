@@ -26,7 +26,8 @@ This AI twitter generator includes below features:
 
 <hr>
 ### `🚀 Folder Structure`  
-`  
+` 
+
  ├── /backend   # Node.js & Express server (handles API, AI, and Twitter) <br>
  │   ├── server.js <br>
  │   ├── .env <br>
