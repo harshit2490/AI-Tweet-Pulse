@@ -8,7 +8,7 @@ This AI twitter generator includes below features:
 
 <hr>
 
-### Application Deployed on Netlify -->[<strong> AI TWEET PULSE</strong>](https://github.com/facebook/create-react-app).
+### Application Deployed on Netlify -->[<strong> AI TWEET PULSE</strong>](https://ai-tweet-pulse-frontend-production.up.railway.app/).
 
 ### Verify Posts on Twitter Account --> [<strong>warriorcruz24</strong>](https://x.com/warriorcruz24)
 
