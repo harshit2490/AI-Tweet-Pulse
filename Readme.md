@@ -1,5 +1,5 @@
 # `🚀AI TWEET PULSE🚀` Application 
-This AI twitter generator includes below features:
+This AI Twitter generator includes below features:
 <br>`✅ AI-generated tweets with custom topics `
 <br>`✅ Trending hashtags dynamically fetched from Twitter`
 <br>`✅ AI-generated images using OpenAI’s DALL·E`
@@ -8,7 +8,7 @@ This AI twitter generator includes below features:
 
 <hr>
 
-### Application Deployed on Netlify -->[<strong> AI TWEET PULSE</strong>](https://ai-tweet-pulse-frontend-production.up.railway.app/).
+### Application Deployed on Railway -->[<strong> AI TWEET PULSE</strong>](https://ai-tweet-pulse-frontend-production.up.railway.app/).
 
 ### Verify Posts on Twitter Account --> [<strong>warriorcruz24</strong>](https://x.com/warriorcruz24)
 
