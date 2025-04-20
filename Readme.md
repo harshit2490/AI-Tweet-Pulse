@@ -16,13 +16,13 @@ This AI twitter generator includes below features:
 
 ### Screenshots
 `Production Build --> Railway`<br>
-<img src="Images/1.png" width="600" height="260"/>
+<img src="Images/1.png" width="600" height="300"/>
 
 `Frontend`<br>
-<img src="Images/2.png" width="600" height="260"/>
+<img src="Images/2.png" width="600" height="300"/>
 
 `Twitter --> @warriorcruz404`<br>
-<img src="Images/3.png" width="600" height="260"/>
+<img src="Images/3.png" width="600" height="300"/>
 
 
 ### Getting Started with `AI TWEET PULSE` Locally -->
