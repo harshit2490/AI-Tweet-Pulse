@@ -3,7 +3,7 @@ This AI twitter generator includes below features:
 <br>`✅ AI-generated tweets with custom topics `
 <br>`✅ Trending hashtags dynamically fetched from Twitter`
 <br>`✅ AI-generated images using OpenAI’s DALL·E`
-<br>`✅ Automatic scheduling (posts every 12 hours as Twitter Trail API is limited)`
+<br>`✅ Automatic scheduling (2 posts per day as Twitter Trail API is limited)`
 <br>`✅ Manual posting option via React UI`
 
 <hr>
