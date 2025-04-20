@@ -1,14 +1,14 @@
 # `🚀AI TWEET PULSE🚀` Application 
-This AI Twitter generator includes below features:
+This AI twitter generator includes below features:
 <br>`✅ AI-generated tweets with custom topics `
 <br>`✅ Trending hashtags dynamically fetched from Twitter`
 <br>`✅ AI-generated images using OpenAI’s DALL·E`
-<br>`✅ Automatic scheduling (posts every 8 hours)`
+<br>`✅ Automatic scheduling (posts every 12 hours as Twitter Trail API is limited)`
 <br>`✅ Manual posting option via React UI`
 
 <hr>
 
-### Application Deployed on Railway -->[<strong> AI TWEET PULSE</strong>](https://ai-tweet-pulse-frontend-production.up.railway.app/).
+### Application Deployed on Railway -->[<strong> AI TWEET PULSE</strong>](https://ai-tweet-pulse-frontend.up.railway.app/).
 
 ### Verify Posts on Twitter Account --> [<strong>warriorcruz24</strong>](https://x.com/warriorcruz24)
 
@@ -26,7 +26,7 @@ This AI Twitter generator includes below features:
 
 <hr>
 ### `🚀 Folder Structure`  
-` 
+`  
 
  ├── /backend   # Node.js & Express server (handles API, AI, and Twitter) <br>
  │   ├── server.js <br>
